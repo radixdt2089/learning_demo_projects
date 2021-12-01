@@ -1,0 +1,47 @@
+{
+  "kind": "collectionType",
+  "collectionName": "students",
+  "info": {
+    "name": "students",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "rollNo": {
+      "type": "integer"
+    },
+    "BirthDate": {
+      "type": "date"
+    },
+    "ProfilePic": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    },
+    "teachers": {
+      "via": "students",
+      "collection": "teachers",
+      "dominant": true
+    },
+    "users_permissions_roles": {
+      "plugin": "users-permissions",
+      "collection": "role",
+      "via": "student"
+    }
+  }
+}

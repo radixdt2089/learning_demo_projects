@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "teachers",
+  "info": {
+    "name": "Teachers",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "Subjects": {
+      "type": "component",
+      "repeatable": true,
+      "component": "subjects.subjects"
+    },
+    "students": {
+      "via": "teachers",
+      "collection": "students"
+    },
+    "department": {
+      "via": "teachers",
+      "model": "department"
+    },
+    "teachers": {
+      "columnName": "assistant_Teacher",
+      "targetColumnName": "professor",
+      "collection": "teachers",
+      "via": "HOD"
+    },
+    "HOD": {
+      "columnName": "professor",
+      "targetColumnName": "assistant_Teacher",
+      "model": "teachers",
+      "via": "teachers"
+    }
+  }
+}

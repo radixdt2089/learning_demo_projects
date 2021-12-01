@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_subjects_subjects",
+  "info": {
+    "name": "Subjects",
+    "icon": "address-book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}

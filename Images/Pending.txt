@@ -1,0 +1,15 @@
+Panding Topics:
+Store in Nuxt js +++++++++++++++++
+-Features => Deployement Targets
+	file  => Extending the router
+	=> configuration
+	=> Loading
+ 	=> Next-child
+	=> Transtions
+	=> priview Mode
+Vuex main Topic ++++++++++++
+Middleware ++++++++++
+Process.env in Nuxt ? +++++++++++++++
+what is watcher 
+in depth Vuex need to learn..
+ 

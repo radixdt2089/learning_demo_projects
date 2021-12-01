@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_meta_metas",
+  "info": {
+    "name": "meta",
+    "icon": "atlas"
+  },
+  "options": {},
+  "attributes": {
+    "Total_view": {
+      "type": "string"
+    }
+  }
+}

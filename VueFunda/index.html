@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="app">
+        <button v-on:click="add">{{ message }}</button>
+        <todo-item v-bind:ha="ha"></todo-item>
+        <!-- <don></don> -->
+        <!-- <todo-item2 ></todo-item2> -->
+    </div>
+    
+    <!-- <div id="app1">
+        {{ message }}
+        <todo-item ></todo-item>
+        <todo-item2 ></todo-item2>
+        
+        <todo-item ></todo-item>
+    </div> -->
+
+    <!-- <div id="app2">
+        <input type="text" v-model="message">
+        <p>{{message}}</p>
+    </div> -->
+</body>
+<script src="index.js" type="module"></script>
+<script type="module">
+    import Vue from 'https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.esm.browser.js';
+
+
+    var app = new Vue({
+        el: '#app',
+        data: {
+            message: 'Hello Vue!',
+            text : 'hello from todo' ,
+            ha:"ha ha"
+        } , 
+        methods : {
+            add : function() {
+                this.message = 'ha ha'
+            }
+        }
+    })
+
+    // var app1 = new Vue({
+    //     el: '#app1',
+    //     data : {
+    //         message : 'hello ankur' 
+    //     }
+    // })
+
+    // var app2 = new Vue({
+    //     el:"#app2",
+    //     data : {
+    //         message : 'enter some input!'
+    //     }
+    // })
+  
+  </script>
+
+</html>
