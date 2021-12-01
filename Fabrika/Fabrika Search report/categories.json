@@ -1,0 +1,1763 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "parent_id": 0,
+            "name": "Root Catalog",
+            "position": 0,
+            "level": 0,
+            "children": "2",
+            "created_at": "2018-07-31 06:39:17",
+            "updated_at": "2020-11-05 09:55:28",
+            "path": "1",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "path",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "33"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "parent_id": 1,
+            "name": "Shop",
+            "is_active": true,
+            "position": 1,
+            "level": 1,
+            "children": "8,9,10,20,22",
+            "created_at": "2018-07-31 06:39:17",
+            "updated_at": "2021-03-15 10:20:10",
+            "path": "1/2",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Shop leggings, trousers, Palazzo, skirts online"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "Woman Dresses, Leggings, Plazzo, Palazzo,Trousers, Pants, Printed Pant, Stretchable  jackets, Skinny Jeans, One piece, Clothing, Jeans,, Going Out Tops, Boyfriend Jeans, Knitwear, Coats, Skirts , tops, clothing"
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "29"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "default-category"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "parent_id": 2,
+            "name": "New In",
+            "is_active": true,
+            "position": 8,
+            "level": 2,
+            "children": "",
+            "created_at": "2018-08-03 06:57:21",
+            "updated_at": "2021-03-16 06:41:07",
+            "path": "1/2/8",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Latest and Trendy Women Bottomwear"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "‎Bottom, ‎Ladies Pants, ‎Pants , ‎Shorts, leggings, trousers"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Our new collection includes every new style of palazzo pants, desi Patiala salwar, colorful capris for women and long skirts"
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/8"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "new-in"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "new-in"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "new-in"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "parent_id": 2,
+            "name": "Best Seller",
+            "is_active": true,
+            "position": 1,
+            "level": 2,
+            "children": "",
+            "created_at": "2018-08-03 06:58:05",
+            "updated_at": "2021-03-16 06:42:16",
+            "path": "1/2/9",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "topwear-cat-banner-v2.jpg"
+                },
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Bestsellers in Women's Indian Clothing"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "women, women's fashion, Best Sellers, Women’s Clothing, best selling, best clothes, best selling clothing, best women's clothes"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Discover best selling Indian clothing for women from Fabrika16. Shop top rated clothing styles, from professional attire and work outfits to casual clothing. Shop the best women's clothes today!"
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/9"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "bestseller"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bestseller"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bestseller"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "parent_id": 2,
+            "name": "Topwear",
+            "is_active": true,
+            "position": 2,
+            "level": 2,
+            "children": "11,12,21,52",
+            "created_at": "2018-08-03 06:58:36",
+            "updated_at": "2021-03-16 06:44:42",
+            "path": "1/2/10",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "topwear-cat-banner-v1.jpg"
+                },
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Buy Topwear and Westernwear for Women  Online"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "Tops for women, women tops, buy women tops, ladies tops, tunic, long tops, women tops online, Women's Top Wear"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Choose from a wide range of Women's Topwear online in India from Fabrika16 at the best price. Select from a stylish range of Dresses, Crop Tops, T-shirts & more. "
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/10"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "4"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "topwear"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "topwear"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "topwear"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "parent_id": 2,
+            "name": "Sale",
+            "is_active": true,
+            "position": 9,
+            "level": 2,
+            "children": "",
+            "created_at": "2018-08-23 06:43:41",
+            "updated_at": "2021-03-16 06:24:51",
+            "path": "1/2/20",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/20"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "sale"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "sale"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "sale"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "parent_id": 2,
+            "name": "Bottomwear",
+            "is_active": true,
+            "position": 3,
+            "level": 2,
+            "children": "4,5,6,17,63",
+            "created_at": "2020-05-21 11:35:56",
+            "updated_at": "2021-03-16 06:45:40",
+            "path": "1/2/22",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Bottom Wear - Buy Lowers For Women at Low Price "
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "churidar leggings, ankle leggings, leggings, churidar online, dupattas online, indian churidar online shopping, dupatta online, chudidar leggings, Pants, Trousers, online shopping "
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Choose from a wide range of stylish ladies Bottomwear and lowers online. Available on a variety of cotton leggings, straight pant, joggers under woman's bottom wear section"
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "22"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "bottomwear"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "parent_id": 22,
+            "name": "Trousers",
+            "is_active": true,
+            "position": 6,
+            "level": 3,
+            "children": "35,36,60",
+            "created_at": "2018-07-31 09:08:30",
+            "updated_at": "2021-03-16 07:04:18",
+            "path": "1/2/22/4",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "meta_title",
+                    "value": " Formal wear women’s trousers, Buy Womens Trousers Online at Best Prices"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "Trousers For Women, trousers, trouser, trousers for women, designer pants, trouser pants"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Women Trousers- buy casual wear,work wear,party wear,For Women.cotton-Trousers,polyester-Trousers,viscose-Trousers,solids,stripes,printed,Trousers."
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/4"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "3"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "trousers"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/trousers"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/trousers"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "parent_id": 22,
+            "name": "Leggings",
+            "is_active": true,
+            "position": 7,
+            "level": 3,
+            "children": "37,38,54",
+            "created_at": "2018-07-31 10:54:38",
+            "updated_at": "2020-11-04 09:34:41",
+            "path": "1/2/22/5",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "9"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "leggings"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "parent_id": 22,
+            "name": "Palazzo",
+            "is_active": true,
+            "position": 2,
+            "level": 3,
+            "children": "58,59,64,65,66",
+            "created_at": "2018-07-31 10:55:27",
+            "updated_at": "2021-03-16 06:54:09",
+            "path": "1/2/22/6",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Wide Collection of Designer Palazzo pants"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "palazzo, palazzo pants, designer palazzo, womens palazzo pants, palazzo online, palazzo pants online"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Looking for latest designer palazzo pants online? Fabrika16 brings to you a wide range of palazzo pants designs at best price."
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/6"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "5"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "palazzo"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/palazzo"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/palazzo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "parent_id": 10,
+            "name": "Top",
+            "is_active": true,
+            "position": 1,
+            "level": 3,
+            "children": "",
+            "created_at": "2018-08-03 06:59:10",
+            "updated_at": "2020-08-12 08:44:19",
+            "path": "1/2/10/11",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "topwear-cat-banner-v1.jpg"
+                },
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Women's Top & T-Shirts for all occasions"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "Dresses, Military Jackets, Skinny Jeans, One piece, Clothing, Jeans,, Going Out Tops, Boyfriend Jeans, Knitwear, Coats, Skirts , tops, clothing"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Fabrika16 collection of women's tops. From crop tops to going out tops and off the shoulder styles, find all our tops here"
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/10/11"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "top"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "topwear/top"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "parent_id": 10,
+            "name": "Shirts",
+            "is_active": true,
+            "position": 2,
+            "level": 3,
+            "children": "",
+            "created_at": "2018-08-03 07:00:12",
+            "updated_at": "2018-08-03 07:00:24",
+            "path": "1/2/10/12",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/10/12"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "shirts"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "topwear/shirts"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "parent_id": 22,
+            "name": "Shorts",
+            "is_active": true,
+            "position": 5,
+            "level": 3,
+            "children": "",
+            "created_at": "2018-08-03 07:03:58",
+            "updated_at": "2021-03-16 06:59:51",
+            "path": "1/2/22/17",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/17"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "shorts"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/shorts"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/shorts"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "parent_id": 10,
+            "name": "T-Shirt",
+            "is_active": true,
+            "position": 3,
+            "level": 3,
+            "children": "",
+            "created_at": "2020-05-12 06:49:01",
+            "updated_at": "2020-05-12 06:49:03",
+            "path": "1/2/10/21",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/10/21"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "t-shirt"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "topwear/t-shirt"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "parent_id": 10,
+            "name": "Tee Top",
+            "is_active": true,
+            "position": 4,
+            "level": 3,
+            "children": "",
+            "created_at": "2020-08-08 11:11:24",
+            "updated_at": "2020-08-08 11:11:24",
+            "path": "1/2/10/52",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/10/52"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "tee-top"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "topwear/tee-top"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "parent_id": 22,
+            "name": "Culottes",
+            "is_active": true,
+            "position": 3,
+            "level": 3,
+            "children": "",
+            "created_at": "2020-11-04 09:22:47",
+            "updated_at": "2021-03-16 06:59:21",
+            "path": "1/2/22/63",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Women's 3/4th Palazzo for all occasions"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "Women's 3/4th Palazzo, Palazzo, Fashion Palazzo, Regular Fit, Rayon"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Fabrika16 collection of women's Palazzo"
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/63"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "culottes"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/culottes"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/culottes"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "parent_id": 4,
+            "name": "Printed Pant",
+            "is_active": true,
+            "position": 1,
+            "level": 4,
+            "children": "",
+            "created_at": "2020-06-18 11:18:53",
+            "updated_at": "2021-03-16 07:03:56",
+            "path": "1/2/22/4/35",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/4/35"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "printed-pant"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/trousers/printed-pant"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/trousers/printed-pant"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "parent_id": 4,
+            "name": "Solid Pant",
+            "is_active": true,
+            "position": 2,
+            "level": 4,
+            "children": "",
+            "created_at": "2020-06-18 11:22:31",
+            "updated_at": "2021-03-16 07:06:13",
+            "path": "1/2/22/4/36",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/4/36"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "solid-pant"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/trousers/solid-pant"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/trousers/solid-pant"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "parent_id": 5,
+            "name": "Ankle Leggings",
+            "is_active": true,
+            "position": 1,
+            "level": 4,
+            "children": "39,40",
+            "created_at": "2020-06-18 11:50:07",
+            "updated_at": "2020-07-23 10:26:56",
+            "path": "1/2/22/5/37",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/37"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "ankle-leggings"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/ankle-leggings"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "parent_id": 5,
+            "name": "Chudidar Leggings",
+            "is_active": true,
+            "position": 2,
+            "level": 4,
+            "children": "50,51",
+            "created_at": "2020-06-18 11:50:37",
+            "updated_at": "2020-07-24 12:44:41",
+            "path": "1/2/22/5/38",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/38"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "chudidar-leggings"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/chudidar-leggings"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "parent_id": 5,
+            "name": "3/4th Leggings",
+            "is_active": true,
+            "position": 3,
+            "level": 4,
+            "children": "55,56",
+            "created_at": "2020-08-11 12:41:02",
+            "updated_at": "2020-08-11 12:42:55",
+            "path": "1/2/22/5/54",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/54"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "3-4th-leggings"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/3-4th-leggings"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "parent_id": 6,
+            "name": "Printed Palazzo",
+            "is_active": true,
+            "position": 1,
+            "level": 4,
+            "children": "",
+            "created_at": "2020-08-14 11:09:43",
+            "updated_at": "2021-03-16 06:54:47",
+            "path": "1/2/22/6/58",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Buy Latest Ladies Printed Palazzo Pants Designs Online"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "printed palazzo,printed palazzo pants, designer palazzo, womens palazzo pants, palazzo online, palazzo pants online"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Browse latest printed palazzo pants design collection. Shop ladies palazzo from our stylish printed palazzo pants."
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/6/58"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "printed-palazzo"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/palazzo/printed-palazzo"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/palazzo/printed-palazzo"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "parent_id": 6,
+            "name": "Broad Belt Palazzo",
+            "is_active": true,
+            "position": 2,
+            "level": 4,
+            "children": "",
+            "created_at": "2020-08-14 11:10:10",
+            "updated_at": "2021-03-16 06:55:58",
+            "path": "1/2/22/6/59",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/6/59"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "solid-palazzo"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/palazzo/solid-palazzo"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/palazzo/solid-palazzo"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "parent_id": 4,
+            "name": "Dhoti Pants",
+            "is_active": true,
+            "position": 3,
+            "level": 4,
+            "children": "",
+            "created_at": "2020-08-21 13:42:33",
+            "updated_at": "2021-03-16 07:06:41",
+            "path": "1/2/22/4/60",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/4/60"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "dhoti-pants"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/trousers/dhoti-pants"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/trousers/dhoti-pants"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "parent_id": 6,
+            "name": "Pant Palazzo",
+            "is_active": true,
+            "position": 3,
+            "level": 4,
+            "children": "",
+            "created_at": "2020-11-04 17:39:53",
+            "updated_at": "2021-03-16 06:56:25",
+            "path": "1/2/22/6/64",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Women's Solid Pant Palazzo"
+                },
+                {
+                    "attribute_code": "meta_keywords",
+                    "value": "Fabrika16 Women's Solid Pant Palazzo, Women's Pant Palazzo, Solid Pant Palazzo, Pant Palazzo, Narrow Fit Palazzo,Kurti Palazzo, Kurti Pant ,Regular Pant ,Core"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Fabrika16 Solid Palazzo Pant - Buy trendy Palazzo Pants at best price range. Get Women's Solid Palazzo Pants. Shop for Rayon Palazzo Pants in various colors and sizes, Hurry Up Now"
+                },
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/6/64"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "pant-palazzo"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/palazzo/pant-palazzo"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/palazzo/pant-palazzo"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "parent_id": 6,
+            "name": "Normal Ghera Palazzo",
+            "is_active": true,
+            "position": 4,
+            "level": 4,
+            "children": "",
+            "created_at": "2020-11-05 07:58:45",
+            "updated_at": "2021-03-16 06:53:31",
+            "path": "1/2/22/6/65",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/6/65"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "normal-ghera-palazzo"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/palazzo/normal-ghera-palazzo"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/palazzo/normal-ghera-palazzo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "parent_id": 6,
+            "name": "Flared Palazzo",
+            "is_active": true,
+            "position": 5,
+            "level": 4,
+            "children": "",
+            "created_at": "2020-11-05 09:55:28",
+            "updated_at": "2021-03-16 06:57:02",
+            "path": "1/2/22/6/66",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/6/66"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "flared-palazzo"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/palazzo/flared-palazzo"
+                },
+                {
+                    "attribute_code": "override_canonical_url",
+                    "value": "bottomwear/palazzo/flared-palazzo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "parent_id": 37,
+            "name": "Cotton Spandex",
+            "is_active": true,
+            "position": 1,
+            "level": 5,
+            "children": "",
+            "created_at": "2020-06-18 11:51:14",
+            "updated_at": "2020-07-17 14:03:01",
+            "path": "1/2/22/5/37/39",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/37/39"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "cotton"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/ankle-leggings/cotton"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "parent_id": 37,
+            "name": "Cotton Lycra",
+            "is_active": true,
+            "position": 2,
+            "level": 5,
+            "children": "",
+            "created_at": "2020-06-18 11:53:15",
+            "updated_at": "2020-07-23 10:27:47",
+            "path": "1/2/22/5/37/40",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/37/40"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "cotton-lycra"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/ankle-leggings/cotton-lycra"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "parent_id": 38,
+            "name": "Cotton Spandex",
+            "is_active": true,
+            "position": 1,
+            "level": 5,
+            "children": "",
+            "created_at": "2020-07-24 12:35:53",
+            "updated_at": "2020-07-24 12:42:31",
+            "path": "1/2/22/5/38/50",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/38/50"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "cotton-spandex"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/chudidar-leggings/cotton-spandex"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "parent_id": 38,
+            "name": "Cotton Lycra",
+            "is_active": true,
+            "position": 2,
+            "level": 5,
+            "children": "",
+            "created_at": "2020-07-24 12:44:41",
+            "updated_at": "2020-07-24 12:49:20",
+            "path": "1/2/22/5/38/51",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/38/51"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "cotton-lycra"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/chudidar-leggings/cotton-lycra"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "parent_id": 54,
+            "name": "Cotton Spandex",
+            "is_active": true,
+            "position": 1,
+            "level": 5,
+            "children": "",
+            "created_at": "2020-08-11 12:42:36",
+            "updated_at": "2020-08-13 06:13:18",
+            "path": "1/2/22/5/54/55",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/54/55"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "cotton-spandex"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/3-4th-leggings/cotton-spandex"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "parent_id": 54,
+            "name": "Cotton Lycra",
+            "is_active": true,
+            "position": 2,
+            "level": 5,
+            "children": "",
+            "created_at": "2020-08-11 12:42:55",
+            "updated_at": "2020-08-11 12:43:44",
+            "path": "1/2/22/5/54/56",
+            "available_sort_by": [],
+            "include_in_menu": true,
+            "custom_attributes": [
+                {
+                    "attribute_code": "display_mode",
+                    "value": "PRODUCTS"
+                },
+                {
+                    "attribute_code": "is_anchor",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "path",
+                    "value": "1/2/22/5/54/56"
+                },
+                {
+                    "attribute_code": "children_count",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_use_parent_settings",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "custom_apply_to_products",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "cotton-lycra"
+                },
+                {
+                    "attribute_code": "url_path",
+                    "value": "bottomwear/leggings/3-4th-leggings/cotton-lycra"
+                }
+            ]
+        }
+    ],
+    "search_criteria": {
+        "filter_groups": []
+    },
+    "total_count": 33
+}
+
+
+
+
